@@ -12,6 +12,8 @@ public class UserLoginApplication {
         FileService fileService = new FileService();
         Users[] users = fileService.readDataFromFile("data.txt");
         for (Users user: users) {
+            // this is where I was trying to test to see if the file is being read
+            //but it returns null without the list of names from the data.txt file
             System.out.println(user);
         }
 

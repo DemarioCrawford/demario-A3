@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1006345-4007-45f2-af2d-45ae9a99c632" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demario-A3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coderscampus/A3/FileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coderscampus/A3/UserLoginApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coderscampus/A3/UserLoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coderscampus/A3/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/coderscampus/A3/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coderscampus/A3/UserLoginApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coderscampus/A3/UserLoginApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
